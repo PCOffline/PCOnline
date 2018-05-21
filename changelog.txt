@@ -1,0 +1,11 @@
+Version 1.0.5 Stable
+
++ Added Commands:
+	• Info
+	• Waffle
+* Fixed Bugs:
+	• Spam Bug
++ Added Automatic Features:
+	• Delete Messages that are not Commands in Bot Channels
+* Changed Features:
+	• Notifications about Message Deletions will not be sent between a message and 5 minutes after it
