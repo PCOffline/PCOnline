@@ -49,7 +49,7 @@ public class App extends ListenerAdapter {
 			"%rename", "%setname", "%collage", "%icon", "%avatar", "%blur", "%greyscale", "%flip", "grayscale", "%gray",
 			"%grey", "%fliph", "%flipv", "flop", "%real", "%invert", "%pixelate", "%posterize", "%sepia", "%contrast" };
 
-	public static String token = "NDQ1MTQ5NDg2NzcyMzg3ODUx.DehPeg.Y12dc8UNslS0TXunP87ZTwCbZUM";
+	public static String token = "";
 
 	static Timer timer = new Timer();
 	static boolean timerPassed = true;
